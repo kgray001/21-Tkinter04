@@ -37,7 +37,7 @@ import tkinter as tk
 #   Once you have done this, then change the above _TODO_ to DONE.
 #
 #
-# TODO: 4. (3 pts)
+# DONE: 4. (3 pts)
 #
 #   For this _todo_, write an event handler function to handle any keypress. In
 #   the function, check if the key pressed is a number (remember that you can
@@ -48,7 +48,7 @@ import tkinter as tk
 #   Once you have done this, then change the above _TODO_ to DONE.
 #
 #
-# TODO: 5. (1 pt)
+# DONE: 5. (1 pt)
 #
 #   Now, bind your window to your event handler.
 #
